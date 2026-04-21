@@ -1,0 +1,24 @@
+{
+  "name": "ourmarket-frontend",
+  "version": "1.0.0",
+  "description": "Frontend for OurMarket product posting app",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx live-server",
+    "build": "echo \"No build step needed\""
+  },
+  "keywords": [
+    "marketplace",
+    "frontend",
+    "cropperjs",
+    "vanilla-js"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.2",
+    "serve": "^14.2.0"
+  }
+}
